@@ -37,25 +37,25 @@ L'analyse de données, l'automatisation des processus, et le déploiement de sol
 
 ## 💻 Tech Stack :
 
-- **Python** ![Python Logo](https://www.python.org/community/logos/python-logo-master-v3-TM.png)
-- **SQL** ![SQL Logo](https://www.mysql.com/common/logos/logo-mysql-170x115.png)
-- **DAX** ![DAX Logo](https://docs.microsoft.com/en-us/power-bi/media/desktop-reporting-dax/desktop-reporting-dax.png)
-- **Power BI** ![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Power_BI_Logo.png/600px-Power_BI_Logo.png)
-- **Scikit-Learn** ![Scikit-Learn Logo](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)
-- **Pandas** ![Pandas Logo](https://pandas.pydata.org/pandas-docs/stable/_images/pydata_logo.png)
-- **Spark** ![Spark Logo](https://spark.apache.org/images/spark-logo.png)
-- **Hadoop** ![Hadoop Logo](https://hadoop.apache.org/images/hadoop-logo.png)
-- **MongoDB** ![MongoDB Logo](https://www.mongodb.com/assets/images/global/mongodb-logo.png)
-- **Talend** ![Talend Logo](https://www.talend.com/wp-content/themes/talend/images/talend-logo.svg)
-- **Elasticsearch** ![Elasticsearch Logo](https://upload.wikimedia.org/wikipedia/commons/4/47/Elastic_Logo.png)
-- **HTML** ![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png)
-- **CSS** ![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/200px-CSS3_logo.svg.png)
-- **Frameworks UI/UX** ![UI/UX Logo](https://miro.medium.com/v2/resize:fit:800/format:webp/1*qxuWrgFzS6SAXn4GHwiqaw.png)
+- **Python**
+- **SQL**
+- **DAX**
+- **Power BI**
+- **Scikit-Learn**
+- **Pandas**
+- **Spark**
+- **Hadoop**
+- **MongoDB**
+- **Talend**
+- **Elasticsearch**
+- **HTML**
+- **CSS**
+- **Frameworks UI/UX**
+
 
 ## 📊 Statistiques GitHub :
 ![Vos Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=SabaAz-BusinessDataAnalyst&show_icons=true&hide_title=true&hide=prs&count_private=true)
 
-## 🌐 Langages Principaux
-![Langages Principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=SabaAz-BusinessDataAnalyst&layout=compact)
+
 
 
