@@ -54,4 +54,9 @@ L'analyse de données, l'automatisation des processus, et le déploiement de sol
 - **Frameworks UI/UX** ![UI/UX Logo](https://miro.medium.com/v2/resize:fit:800/format:webp/1*qxuWrgFzS6SAXn4GHwiqaw.png)
 
 ## 📊 Statistiques GitHub :
-![Vos Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true)
+![Vos Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=SabaAz-BusinessDataAnalyst&show_icons=true&hide_title=true&hide=prs&count_private=true)
+
+## 🌐 Langages Principaux
+![Langages Principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=SabaAz-BusinessDataAnalyst&layout=compact)
+
+
