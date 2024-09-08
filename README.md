@@ -37,8 +37,6 @@ L'analyse de données, l'automatisation des processus, et le déploiement de sol
 
 ## 💻 Tech Stack :
 
-## 💻 Tech Stack :
-
 - **Python** 🐍
 - **SQL** 🗃️
 - **DAX** 📊
