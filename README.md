@@ -14,7 +14,7 @@ L'analyse de données, l'automatisation des processus, et le déploiement de sol
 - **Support Technique :** Assistance et résolution de problèmes techniques liés à Power BI pour garantir une utilisation fluide et productive des outils.
 
 ### **Data Science et Analyse :**
-- **Langages et Outils :** Expertise en Python, SQL, et DAX pour l'analyse de données avancée, l'apprentissage automatique, et la modélisation prédictive.
+- **Langages et Outils :** Expertise en Python, SQL, et DAX et M pour l'analyse de données avancée, l'apprentissage automatique, et la modélisation prédictive.
 - **Technologies :** Utilisation de Scikit-Learn, PySpark, et Pandas pour extraire des insights significatifs et orienter les décisions stratégiques.
 - **Analyse Avancée :** Application de techniques d'analyse pour révéler des tendances et des opportunités cachées dans les données.
 
