@@ -1,4 +1,4 @@
-# 📚 README - Business Data Analyst
+# 📚 README -Consultante Formatrice Business Data Analyst Power BI /Power Query
 
 ## 💫 À Propos de Moi :
 Je suis Business Data Analyst et consultante formatrice Power BI, spécialisée dans la business intelligence et la visualisation de données. Mon parcours chez MOM Group Materne Mont-Blanc GoGo squeeZ m'a permis de développer une expertise approfondie en conception de tableaux de bord et en exploitation de Power BI. Mon rôle a consisté à superviser les traitements ETL, fournir un support technique pour les rapports Power BI, et créer des applications via Power BI Services, en veillant à l'optimisation constante des processus et à la satisfaction des utilisateurs finaux. 📊💡
@@ -38,6 +38,7 @@ L'analyse de données, l'automatisation des processus, et le déploiement de sol
 ## 💻 Tech Stack :
 
 - **Python**
+- **Dax**
 - **SQL**
 - **DAX**
 - **Power BI**
