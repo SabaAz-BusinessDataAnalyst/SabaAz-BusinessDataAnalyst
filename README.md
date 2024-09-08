@@ -42,7 +42,6 @@ L'analyse de données, l'automatisation des processus, et le déploiement de sol
 - **DAX** ![DAX Logo](https://docs.microsoft.com/en-us/power-bi/media/desktop-reporting-dax/desktop-reporting-dax.png)
 - **Power BI** ![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Power_BI_Logo.png/600px-Power_BI_Logo.png)
 - **Scikit-Learn** ![Scikit-Learn Logo](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)
-- **PySpark** ![PySpark Logo](https://spark.apache.org/images/spark-logo.png)
 - **Pandas** ![Pandas Logo](https://pandas.pydata.org/pandas-docs/stable/_images/pydata_logo.png)
 - **Spark** ![Spark Logo](https://spark.apache.org/images/spark-logo.png)
 - **Hadoop** ![Hadoop Logo](https://hadoop.apache.org/images/hadoop-logo.png)
