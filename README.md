@@ -37,21 +37,22 @@ L'analyse de données, l'automatisation des processus, et le déploiement de sol
 
 ## 💻 Tech Stack :
 
-- **Python**
-- **Dax**
-- **SQL**
-- **DAX**
-- **Power BI**
-- **Scikit-Learn**
-- **Pandas**
-- **Spark**
-- **Hadoop**
-- **MongoDB**
-- **Talend**
-- **Elasticsearch**
-- **HTML**
-- **CSS**
-- **Frameworks UI/UX**
+## 💻 Tech Stack :
+
+- **Python** 🐍
+- **SQL** 🗃️
+- **DAX** 📊
+- **Power BI** 📈
+- **Scikit-Learn** 📚
+- **Pandas** 🐼
+- **Spark** ✨
+- **Hadoop** 🌾
+- **MongoDB** 🗂️
+- **Talend** 🔄
+- **Elasticsearch** 🔍
+- **HTML** 🌐
+- **CSS** 🎨
+- **Frameworks UI/UX** 🖌️
 
 
 ## 📊 Statistiques GitHub :
